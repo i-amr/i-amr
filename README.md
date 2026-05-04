@@ -18,12 +18,13 @@
 ---
 
 ### 🚀 Technical Stack
+
 | Category | Languages / Tools |
 | :--- | :--- |
-| **Main** | `Python`, `Kotlin`, `Java` |
-| **Low-Level** | `Smali` (Basics), `C++`, `C#` |
-| **Web** | `HTML`, `CSS`, `JS`, `PHP`, `Ruby` |
-| **Learning** | `Swift` (One day soon!) |
+| **Main** | ![Main](https://skillicons.dev/icons?i=py,rs,go,kt,java) |
+| **Low-Level** | ![Low-Level](https://skillicons.dev/icons?i=cs,cpp) |
+| **Web** | ![Web](https://skillicons.dev/icons?i=html,css,js,php,ruby) |
+| **Learning** | ![Learning](https://skillicons.dev/icons?i=swift) (One day soon!) |
 
 ---
 
