@@ -21,7 +21,7 @@ That's Amr, nothing special.
 
 ![Visitors](https://komarev.com/ghpvc/?username=SENPAi-03&style=for-the-badge&label=Visitors&color=282A36)
 
-[![Discord](https://lanyard.cnrad.dev/api/710560029077405718?theme=dark&bg=141321&borderRadius=6px&idleMessage=Hello&comma;+World&excl;)](https://discord.com/users/710560029077405718)
+[![Discord](https://discord-cards.onrender.com/api/compact/710560029077405718?about=Coffee%20into%20Code&banner=https://i.redd.it/8jbznzjv4zv81.jpg&large_image=&small_image=&hex=222222)](https://discord.com/users/710560029077405718)
 
 ## Current Project
 [![Current](https://github-readme-stats.vercel.app/api/pin/?username=i-amr&repo=i-amr&bg_color=141321&text_color=fff)](https://github.com/i-amr/i-amr)
