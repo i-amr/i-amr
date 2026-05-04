@@ -21,7 +21,7 @@
 
 | Category | Languages / Tools |
 | :--- | :--- |
-| **Main** | ![Main](https://skillicons.dev/icons?i=py,rs,go,kt,java) |
+| **Main** | ![Main](https://skillicons.dev/icons?i=py,rust,go,kotlin,java) |
 | **Low-Level** | ![Low-Level](https://skillicons.dev/icons?i=cs,cpp) |
 | **Web** | ![Web](https://skillicons.dev/icons?i=html,css,js,php,ruby) |
 | **Learning** | ![Learning](https://skillicons.dev/icons?i=swift) (One day soon!) |
