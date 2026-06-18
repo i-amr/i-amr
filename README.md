@@ -21,7 +21,7 @@
 | Category | Languages / Tools |
 | :--- | :--- |
 | **Main** | ![Main](https://skillicons.dev/icons?i=py,kotlin,java) |
-| **Wishlist** | ![Web](https://skillicons.dev/icons?i=lua,ocaml,perl,shell) |
+| **Wishlist** | ![Web](https://skillicons.dev/icons?i=lua,ocaml,perl) |
 | **Learning** | ![Learning](https://skillicons.dev/icons?i=c,rust) |
 
 ---
