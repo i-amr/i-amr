@@ -12,7 +12,6 @@
 **"Turning coffee into code (and then usually deleting it)."**
 
 * 🎯 Focus: Mastering the "Enemy" (**Reverse Engineering**) and **Python** automation.
-* 🗣️ Languages: **Arabic** (Native) | **English** (Upper-Intermediate/B2).
 * 🛠️ Currently dodging "Undead Projects" on my hard drive.
 
 ---
